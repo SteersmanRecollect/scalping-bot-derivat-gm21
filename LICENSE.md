@@ -1,4 +1,4 @@
-# 
+# automatic grid trading bot for futures Algorithm | perpetual-trading + order-book-analysis offers the most advanced grid trading bot for futures, with perpetual-trading and
 
 
 
